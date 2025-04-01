@@ -8,7 +8,7 @@ A lightweight, scalable Notes Management backend built using Spring Boot. This b
 
 - Project `Maven`
 - Java `17`
-- Spring Boot `3.4.3`
+- Spring Boot `3.4.4`
 - Packaging `Jar`
 
 ---
